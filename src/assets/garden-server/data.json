@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Rina Akter",
+    "status": "active",
+    "speciality": "Rose Gardening",
+    "image": "https://i.ibb.co/1MZD3hv/rina.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Habib Ullah",
+    "status": "active",
+    "speciality": "Indoor Plants",
+    "image": "https://i.ibb.co/nLZ2WD5/habib.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mehedi Hasan",
+    "status": "inactive",
+    "speciality": "Vegetable Gardening",
+    "image": "https://i.ibb.co/94mrkm1/mehedi.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tania Sultana",
+    "status": "active",
+    "speciality": "Succulent Care",
+    "image": "https://i.ibb.co/mbWTGcw/tania.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Imran Hossain",
+    "status": "inactive",
+    "speciality": "Organic Composting",
+    "image": "https://i.ibb.co/SrWgDtv/imran.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sharmin Jahan",
+    "status": "active",
+    "speciality": "Balcony Gardening",
+    "image": "https://i.ibb.co/yRQ0kLg/sharmin.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Nurul Amin",
+    "status": "active",
+    "speciality": "Fruit Plants",
+    "image": "https://i.ibb.co/3vMWWzC/nurul.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Salma Khatun",
+    "status": "inactive",
+    "speciality": "Herb Garden",
+    "image": "https://i.ibb.co/2WGLkB8/salma.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Azizur Rahman",
+    "status": "active",
+    "speciality": "Vertical Farming",
+    "image": "https://i.ibb.co/Y0Mg5qz/aziz.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Maliha Tabassum",
+    "status": "inactive",
+    "speciality": "Hydroponics",
+    "image": "https://i.ibb.co/yQx9nSS/maliha.jpg"
+  }
+]

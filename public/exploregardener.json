@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Rahim Uddin",
+    "age": 45,
+    "gender": "Male",
+    "status": "Active",
+    "experiences": "10 years in organic gardening",
+    "image": "https://i.ibb.co/h193XtTD/depositphotos-392006782-stock-photo-happy-man-in-apron-at.webp",
+    "totalSharedTips": 23,
+    "location": "Sylhet",
+    "speciality": "Vegetable Gardening"
+  },
+  {
+    "id": 2,
+    "name": "Sabina Yasmin",
+    "age": 38,
+    "gender": "Female",
+    "status": "Active",
+    "experiences": "7 years in rooftop gardening",
+    "image": "https://i.ibb.co/nMvdZKpM/depositphotos-195730942-stock-photo-woman-gardener-planting-flower-in.jpg",
+    "totalSharedTips": 31,
+    "location": "Dhaka",
+    "speciality": "Herbal Gardening"
+  },
+  {
+    "id": 3,
+    "name": "Jamil Khan",
+    "age": 50,
+    "gender": "Male",
+    "status": "Inactive",
+    "experiences": "15 years in flower gardening",
+    "image": "https://i.ibb.co/XZYQZ77C/360-F-111030808-5a-SJOZwof-Lxk7u-T7lb-Wtk-Ywi-GJZGjqme.jpg",
+    "totalSharedTips": 12,
+    "location": "Chittagong",
+    "speciality": "Ornamental Plants"
+  },
+  {
+    "id": 4,
+    "name": "Nasima Akter",
+    "age": 30,
+    "gender": "Female",
+    "status": "Active",
+    "experiences": "5 years in container gardening",
+    "image": "https://i.ibb.co/NdxM6LqG/images.jpg",
+    "totalSharedTips": 18,
+    "location": "Khulna",
+    "speciality": "Indoor Plants"
+  },
+  {
+    "id": 5,
+    "name": "Tanvir Hossain",
+    "age": 27,
+    "gender": "Male",
+    "status": "Active",
+    "experiences": "3 years in hydroponics",
+    "image": "https://i.ibb.co/XZYQZ77C/360-F-111030808-5a-SJOZwof-Lxk7u-T7lb-Wtk-Ywi-GJZGjqme.jpg",
+    "totalSharedTips": 9,
+    "location": "Rajshahi",
+    "speciality": "Hydroponics"
+  },
+  {
+    "id": 6,
+    "name": "Rokeya Sultana",
+    "age": 42,
+    "gender": "Female",
+    "status": "Active",
+    "experiences": "9 years in bonsai gardening",
+    "image": "/images/rokeya.jpg",
+    "totalSharedTips": 20,
+    "location": "Barisal",
+    "speciality": "Bonsai"
+  },
+  {
+    "id": 7,
+    "name": "Abdul Kader",
+    "age": 36,
+    "gender": "Male",
+    "status": "Active",
+    "experiences": "6 years in landscape gardening",
+    "image": "/images/kader.jpg",
+    "totalSharedTips": 14,
+    "location": "Comilla",
+    "speciality": "Landscape Design"
+  },
+  {
+    "id": 8,
+    "name": "Sharmin Akter",
+    "age": 29,
+    "gender": "Female",
+    "status": "Active",
+    "experiences": "4 years in herb garden management",
+    "image": "/images/sharmin.jpg",
+    "totalSharedTips": 11,
+    "location": "Rangpur",
+    "speciality": "Medicinal Herbs"
+  },
+  {
+    "id": 9,
+    "name": "Mizanur Rahman",
+    "age": 55,
+    "gender": "Male",
+    "status": "Retired",
+    "experiences": "20 years in community gardening",
+    "image": "/images/mizan.jpg",
+    "totalSharedTips": 40,
+    "location": "Mymensingh",
+    "speciality": "Community Farming"
+  },
+  {
+    "id": 10,
+    "name": "Fahmida Haque",
+    "age": 33,
+    "gender": "Female",
+    "status": "Active",
+    "experiences": "5 years in aquaponics",
+    "image": "https://i.ibb.co/wkMs48p/1000-F-281028882-WZYL9g-We-Zxyv62-Rtyde-A6-HWsy-Tw-H58-LS.jpg",
+    "totalSharedTips": 15,
+    "location": "Gazipur",
+    "speciality": "Aquaponics"
+  }
+]

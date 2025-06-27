@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "How I Grow Tomatoes Indoors",
+    "plantType": "Tomato",
+    "difficulty": "Medium",
+    "description": "Growing tomatoes indoors requires adequate sunlight, deep pots, and regular pruning. Here's how I manage it in a small apartment.",
+    "image": "https://i.postimg.cc/ZqqCs8MD/gettyimages-2155981459-170667a.jpg",
+    "category": "Plant Care",
+    "availability": "Public",
+    "user": {
+      "name": "Rina Akter",
+      "email": "rina.gardener@example.com"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Balcony Composting in Buckets",
+    "plantType": "Organic Waste",
+    "difficulty": "Easy",
+    "description": "You can start composting in small buckets on your balcony using kitchen scraps. I’ll show you step-by-step how.",
+    "image": "https://i.postimg.cc/gj3JLNxr/images-5.jpg",
+    "category": "Composting",
+    "availability": "Public",
+    "user": {
+      "name": "Habib Ullah",
+      "email": "habib.gardener@example.com"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Caring for Succulents in Monsoon",
+    "plantType": "Succulents",
+    "difficulty": "Medium",
+    "description": "Succulents are sensitive to overwatering during monsoon. I use a DIY drainage tray to prevent root rot.",
+    "image": "https://i.postimg.cc/d1yQg4mn/images-9.jpg",
+    "category": "Plant Care",
+    "availability": "Public",
+    "user": {
+      "name": "Tania Sultana",
+      "email": "tania.green@example.com"
+    }
+  },
+  {
+    "id": 4,
+    "title": "DIY Vertical Garden with Plastic Bottles",
+    "plantType": "Multiple",
+    "difficulty": "Hard",
+    "description": "Create a vertical garden using recycled plastic bottles. A great way to save space and grow herbs and flowers.",
+    "image": "https://i.postimg.cc/j2TTmKjd/images-10.jpg",
+    "category": "Vertical Gardening",
+    "availability": "Public",
+    "user": {
+      "name": "Sharmin Jahan",
+      "email": "sharmin.jahan@example.com"
+    }
+  },
+  {
+    "id": 5,
+    "title": "My Organic Herb Garden Setup",
+    "plantType": "Herbs",
+    "difficulty": "Easy",
+    "description": "Setting up a herb garden is easy and rewarding. Learn how to grow basil, mint, and cilantro in pots.",
+    "image": "https://i.postimg.cc/2SVsH3x7/images-8.jpg",
+    "category": "Plant Care",
+    "availability": "Hidden",
+    "user": {
+      "name": "Nurul Amin",
+      "email": "nurul.amin@example.com"
+    }
+  },
+  {
+    "id": 6,
+    "title": "How I Use Compost Tea for Better Growth",
+    "plantType": "All Plants",
+    "difficulty": "Medium",
+    "description": "Compost tea can significantly boost plant health. Learn how to brew and apply it effectively.",
+    "image": "https://i.postimg.cc/TYHSWfXL/images-7.jpg",
+    "category": "Composting",
+    "availability": "Public",
+    "user": {
+      "name": "Azizur Rahman",
+      "email": "azizur.rahman@example.com"
+    }
+  }
+]
