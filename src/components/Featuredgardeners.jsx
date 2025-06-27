@@ -23,7 +23,7 @@ const Featuredgardeners = () => {
       <h2 className="lg:text-3xl text-2xl text-green-800 font-bold text-left mb-8">
         🌟 Featured <span className="text-red-800">Gardeners</span>
       </h2>
-      <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+      <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3 ">
         {gardeners.map((gardener) => (
           <div
             key={gardener._id}

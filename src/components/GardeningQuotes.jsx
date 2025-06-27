@@ -32,7 +32,7 @@ const quotes = [
 const GardeningQuotes = () => {
   return (
     <div className="my-10">
-      <h2 className="text-2xl font-bold mb-6 text-left">🌼 Gardening Quotes</h2>
+      <h2 className="text-2xl font-bold mb-6 text-left text-green-700">🌼 Gardening <span className="text-red-800">Quotes</span></h2>
       <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
         {quotes.map((quote, idx) => (
           <div

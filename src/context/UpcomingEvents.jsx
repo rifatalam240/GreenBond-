@@ -48,7 +48,7 @@ const events = [
 const UpcomingEvents = () => (
   <div className="my-10">
     <h2 className="lg:text-3xl text-2xl text-green-800 font-bold text-left mb-8">
-      🌱 Upcoming <span className="text-gray-400">Events</span>
+      🌱 Upcoming <span className="text-red-700">Events</span>
     </h2>
     <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
       {events.map((event) => (

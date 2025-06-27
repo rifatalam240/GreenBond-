@@ -40,14 +40,14 @@ const Dashboar = () => {
       <aside className='w-full md:w-60 bg-green-50 border-r border-green-100 p-4'>
         <div className='mb-6'>
           <div className='font-bold text-green-700 text-lg mb-1'>Dashboard</div>
-          <div className='text-xs text-base-content/70'>{user?.email}</div>
+          <div className='text-xs text-[#03363D]'>{user?.email}</div>
         </div>
         <nav className='flex flex-col gap-2'>
           {links.map((l) => (
             <Link
               key={l.to}
               to={l.to}
-              className={`btn btn-sm btn-ghost justify-start ${
+              className={`btn btn-sm btn-ghost text-[#03363D] justify-start ${
                 location.pathname === l.to ? 'bg-green-100 font-bold' : ''
               }`}
             >
@@ -72,11 +72,11 @@ const Dashboar = () => {
                   <div className='text-2xl font-bold text-green-700'>
                     {stats.total}
                   </div>
-                  <div className='text-base-content/70'>Total Items</div>
+                  <div className='text-[#03363D] '>Total Items</div>
                 </div>
                 <div className='card bg-green-50 border border-green-200 p-4'>
                   <div className='text-2xl font-bold text-green-700'>{stats.my}</div>
-                  <div className='text-base-content/70'>My Items</div>
+                  <div className='text-[#03363D] '>My Items</div>
                 </div>
               </div>
               <div className='card bg-base-100 border p-4'>
